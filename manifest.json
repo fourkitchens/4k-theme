@@ -1,0 +1,17 @@
+{
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCAZD2c8rBBUzosAkz2JKtuURiKjROR0ruMGKcEb25xTfHXjGmg0hH/8Q6AX5atj+q+Pi7n68ic0yR7d4S6EcOwuziwtWaV503lKXgdxNZj61YTWUDypAePGnmafPV1A4Uv7IKGus4oXyd9DWFzVJPhdACqSG28zQXF+jYGw4+2UQIDAQAB",
+   "manifest_version": 2,
+   "name": "4K Theme",
+   "theme": {
+      "colors": {
+         "ntp_background": [ 102, 179, 96 ],
+         "ntp_text": [ 255, 255, 255 ]
+      },
+      "images": {
+         "theme_frame": "images/frame.png",
+         "theme_ntp_background": "images/background.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
