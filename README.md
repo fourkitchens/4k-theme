@@ -1,12 +1,16 @@
-## 4K Theme
+# Four Kitchens Google Chrome Theme
 
-A google chrome theme built with love by the Webchefs at [Four Kitchens](http://fourkitchens.com)
+A Google Chrome theme built with love by the Web Chefs at [Four Kitchens](http://fourkitchens.com).
 
-### Contributing
+## Contributing
 
-Documentation on building chrome themes can be found [here](http://developer.chrome.com/extensions/themes.html).
+Documentation on building Chrome themes can be found [here](http://developer.chrome.com/extensions/themes.html).
 
-### License
+## License
+
+The Four Kitchens knife-and-bracket logo is a trademark of Four Kitchens, LLC. The graphics included in this repository are provided as examples only and may not be reused or modified without express permission.
+
+The code is licensed under the MIT license (see below).
 
 ```
 The MIT License (MIT)
