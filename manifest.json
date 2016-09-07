@@ -3,6 +3,7 @@
    "name": "Four Kitchens Theme",
    "theme": {
       "colors": {
+         "frame": [ 53, 170, 78 ],
          "ntp_background": [ 53, 170, 78 ],
          "ntp_text": [ 255, 255, 255 ]
       },
